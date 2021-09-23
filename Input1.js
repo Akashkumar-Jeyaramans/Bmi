@@ -9,7 +9,6 @@ class Input extends Component{
         return(
             <>
              <input></input>
-            
             </>
         );
     }
